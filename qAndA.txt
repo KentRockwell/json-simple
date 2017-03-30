@@ -1,0 +1,19 @@
+{"master" : {
+	"questionkeys" : {
+		"questionkey" : [
+			{"id" : "id1", "Question" : "What does Java javac produce?", "Answer" : "bytecode" },
+	 		{"id" : "id2", "Question" : "What is Java default String encoding?" , "Answer" : "UTF-8" },
+	 		{"id" : "id3", "Question" : "What Java 8 class decodes the Basic type base64 encoding scheme?", "Answer" : "Base64.Decoder" },
+	 		{"id" : "id4", "Question" : "What Java 8 class encodes the Basic type base64 encoding scheme?", "Answer" : "Base64.Decoder" },
+	 		{"id" : "id5", "Question" : "What Java 8 collection class provides non-duplicate entries in a balance tree?", "Answer" : "TreeSet<E>" },
+	 		{"id" : "id6", "Question" : "What Java 8 collection class provides duplicate entries with unique keys in a balance tree?", "Answer" : "TreeMap<K,V>" },
+	 		{"id" : "id7", "Question" : "What Java 8 collection class provides resizable-array implementation of the List interface?", "Answer" : "ArrayList<E>" },
+	 		{"id" : "id8", "Question" : "What Java 8 collection class provides resizable-array implementation of the Deque interface?", "Answer" : "ArrayDeque<E>" },
+	 		{"id" : "id9", "Question" : "What does Docker load in a container at runtime?", "Answer" : "image" },
+	 		{"id" : "id10", "Question" : "What runs Docker containers?", "Answer" : "Docker Server" },
+	 		{"id" : "id11", "Question" : "Docker is built into what operating system?", "Answer" : "Linux" },
+	 		{"id" : "id112", "Question" : "What are the Linux Docker Linux file system layers?", "Answer" : "union"}
+		 ]
+		}
+	}
+}
